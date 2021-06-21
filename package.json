@@ -1,0 +1,19 @@
+{
+  "name": "git-practice",
+  "version": "0.9.0",
+  "description": "git practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max8hine/git-practice.git"
+  },
+  "author": "Max Ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/max8hine/git-practice/issues"
+  },
+  "homepage": "https://github.com/max8hine/git-practice#readme"
+}
